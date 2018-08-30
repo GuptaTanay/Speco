@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speco</string>
+    <string name="tab_art">Art</string>
+    <string name="tab_tech">Tech</string>
+    <string name="tab_sports">Sports</string>
+</resources>
+
