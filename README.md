@@ -1,5 +1,5 @@
 # Speco
-<h2>Connecting to SOAP webservices.</h2>
+<h2>Connecting to REST APIs.</h2>
 An amazing application for news and Dictionary both..
 <br>
 <b>This application has 2 functioning:-</b>
