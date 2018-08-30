@@ -6,4 +6,6 @@ An amazing application for news and Dictionary both..
 1. Dictionary.<br>
 2. News.<br>
 
-This application communicates with SOAP webservices which return resources in the from of XML, this XML is the parsed using SAXParsers.
+This application communicates with SOAP webservices which return resources in the from of XML, this XML is the parsed using SAXParsers.<br>
+
+> <b> TODO: Detailed README to be updated, paused due to placements</b>
